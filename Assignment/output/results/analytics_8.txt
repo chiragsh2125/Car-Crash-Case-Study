@@ -1,0 +1,6 @@
+Top 5 Zip Codes with Highest Alcohol-Related Crashes:
+Zip Code 76010: 75 crashes
+Zip Code 78521: 61 crashes
+Zip Code 75067: 54 crashes
+Zip Code 78574: 47 crashes
+Zip Code 75052: 43 crashes

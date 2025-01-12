@@ -1,0 +1,10 @@
+input_path: "data/Data"
+output_path: "output/results"
+
+files:
+  primary_person: "Primary_Person_use.csv"
+  units: "Units_use.csv"
+  charges: "Charges_use.csv"
+  damages: "Damages_use.csv"
+  restrict: "Restrict_use.csv"
+  endorse: "Endorse_use.csv"

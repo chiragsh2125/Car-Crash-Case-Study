@@ -1,0 +1,21 @@
+Top Ethnic Groups for Each Body Style:
+Body Style AMBULANCE: Ethnicity WHITE
+Body Style BUS: Ethnicity HISPANIC
+Body Style FARM EQUIPMENT: Ethnicity WHITE
+Body Style FIRE TRUCK: Ethnicity WHITE
+Body Style MOTORCYCLE: Ethnicity WHITE
+Body Style NA: Ethnicity WHITE
+Body Style NEV-NEIGHBORHOOD ELECTRIC VEHICLE: Ethnicity WHITE
+Body Style NOT REPORTED: Ethnicity HISPANIC
+Body Style OTHER  (EXPLAIN IN NARRATIVE): Ethnicity WHITE
+Body Style PASSENGER CAR, 2-DOOR: Ethnicity WHITE
+Body Style PASSENGER CAR, 4-DOOR: Ethnicity WHITE
+Body Style PICKUP: Ethnicity WHITE
+Body Style POLICE CAR/TRUCK: Ethnicity WHITE
+Body Style POLICE MOTORCYCLE: Ethnicity HISPANIC
+Body Style SPORT UTILITY VEHICLE: Ethnicity WHITE
+Body Style TRUCK: Ethnicity WHITE
+Body Style TRUCK TRACTOR: Ethnicity WHITE
+Body Style UNKNOWN: Ethnicity WHITE
+Body Style VAN: Ethnicity WHITE
+Body Style YELLOW SCHOOL BUS: Ethnicity WHITE

@@ -1,0 +1,1 @@
+Number of Vehicles with Valid Licenses Involved in Hit-and-Run: 58

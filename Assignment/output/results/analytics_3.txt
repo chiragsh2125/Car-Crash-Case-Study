@@ -1,0 +1,6 @@
+Top 5 Vehicle Makes (Driver Died & Airbags did not deploy):
+CHEVROLET: 17
+FORD: 12
+NA: 7
+DODGE: 7
+FREIGHTLINER: 6

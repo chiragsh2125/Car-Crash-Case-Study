@@ -1,0 +1,4 @@
+Top 3rd to 5th Vehicle Makes with Highest Number of Injuries (Including Death):
+TOYOTA: 7113
+DODGE: 5592
+NISSAN: 4873
