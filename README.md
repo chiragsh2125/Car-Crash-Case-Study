@@ -46,7 +46,7 @@ a. Application should perform below analysis and store the results for each anal
 
 **Steps To Run:**
 1. Clone the repository:
-git clone <repository_link>
+git clone <https://github.com/chiragsh2125/Car-Crash-Case-Study>
 
 2. Navigate to the project directory:
 cd Assignment
